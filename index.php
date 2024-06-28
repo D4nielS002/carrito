@@ -105,7 +105,7 @@ $con = conectar();
             </div>  <!--.producto-->
             <div class="producto">
                 <a href="producto.html">
-                    <img class="producto__imagen" src="img/9.jpg" alt="imagen camisa">
+                    <img class="producto__imagen" src="img/10.jpg" alt="imagen camisa">
                     <div class="producto__informacion">
                         <p class="producto__nombre">BulmaCSS</p>
                         <p class="producto__precio">$25</p>
@@ -114,7 +114,7 @@ $con = conectar();
             </div>  <!--.producto-->
             <div class="producto">
                 <a href="producto.html">
-                    <img class="producto__imagen" src="img/10.jpg" alt="imagen camisa">
+                    <img class="producto__imagen" src="img/9.jpg" alt="imagen camisa">
                     <div class="producto__informacion">
                         <p class="producto__nombre">TypeScript</p>
                         <p class="producto__precio">$25</p>
