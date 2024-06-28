@@ -89,7 +89,7 @@ $con = conectar();
                 <a href="producto.html">
                     <img class="producto__imagen" src="img/7.jpg" alt="imagen camisa">
                     <div class="producto__informacion">
-                        <p class="producto__nombre">HTML5</p>
+                        <p class="producto__nombre">HTMdffL5</p>
                         <p class="producto__precio">$25</p>
                     </div>
                 </a>
